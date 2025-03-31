@@ -1,0 +1,14 @@
+D:\coding_dojo\C Sharp\C#\CsharpProjects\CsharpProjects\Test2Project\bin\Debug\net9.0\Test2Project.exe
+D:\coding_dojo\C Sharp\C#\CsharpProjects\CsharpProjects\Test2Project\bin\Debug\net9.0\Test2Project.deps.json
+D:\coding_dojo\C Sharp\C#\CsharpProjects\CsharpProjects\Test2Project\bin\Debug\net9.0\Test2Project.runtimeconfig.json
+D:\coding_dojo\C Sharp\C#\CsharpProjects\CsharpProjects\Test2Project\bin\Debug\net9.0\Test2Project.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\CsharpProjects\Test2Project\bin\Debug\net9.0\Test2Project.pdb
+D:\coding_dojo\C Sharp\C#\CsharpProjects\CsharpProjects\Test2Project\obj\Debug\net9.0\Test2Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding_dojo\C Sharp\C#\CsharpProjects\CsharpProjects\Test2Project\obj\Debug\net9.0\Test2Project.AssemblyInfoInputs.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\CsharpProjects\Test2Project\obj\Debug\net9.0\Test2Project.AssemblyInfo.cs
+D:\coding_dojo\C Sharp\C#\CsharpProjects\CsharpProjects\Test2Project\obj\Debug\net9.0\Test2Project.csproj.CoreCompileInputs.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\CsharpProjects\Test2Project\obj\Debug\net9.0\Test2Project.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\CsharpProjects\Test2Project\obj\Debug\net9.0\refint\Test2Project.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\CsharpProjects\Test2Project\obj\Debug\net9.0\Test2Project.pdb
+D:\coding_dojo\C Sharp\C#\CsharpProjects\CsharpProjects\Test2Project\obj\Debug\net9.0\Test2Project.genruntimeconfig.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\CsharpProjects\Test2Project\obj\Debug\net9.0\ref\Test2Project.dll
