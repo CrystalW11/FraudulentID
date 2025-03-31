@@ -12,3 +12,4 @@ D:\coding_dojo\C Sharp\C#\CsharpProjects\CsharpProjects\Test2Project\obj\Debug\n
 D:\coding_dojo\C Sharp\C#\CsharpProjects\CsharpProjects\Test2Project\obj\Debug\net9.0\Test2Project.pdb
 D:\coding_dojo\C Sharp\C#\CsharpProjects\CsharpProjects\Test2Project\obj\Debug\net9.0\Test2Project.genruntimeconfig.cache
 D:\coding_dojo\C Sharp\C#\CsharpProjects\CsharpProjects\Test2Project\obj\Debug\net9.0\ref\Test2Project.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\CsharpProjects\Test2Project\obj\Debug\net9.0\Test2Project.sourcelink.json
